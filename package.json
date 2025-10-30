@@ -1,0 +1,13 @@
+{
+  "name": "realestatehub-scraper",
+  "version": "1.0.0",
+  "description": "RealEstateHub scraper",
+  "main": "index.js",
+  "author": "PROLEZ",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "nightmare": "^3.0.2",
+    "vo": "^4.0.2"
+  }
+}
